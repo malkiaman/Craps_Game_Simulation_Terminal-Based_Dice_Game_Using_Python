@@ -36,7 +36,7 @@ You win!
 ```
 
 ## Requirements
-- Python 3.x
+- Python 3.12.0
 
 ## How to Run
 Save the script as `craps_game.py` and run using:
